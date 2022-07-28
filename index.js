@@ -1,5 +1,3 @@
-
-
 const lista = [
     'Luis', 
     24, 
@@ -11,6 +9,6 @@ const lista = [
         fecha:   new Date( 2022, 6 ,13 ),
         url:     "https://campus.open-bootcamp.com/cursos/15/leccion/1875"
     }
-]
+];
 
-console.log(lista)
+console.log(lista);
